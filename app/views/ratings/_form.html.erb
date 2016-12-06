@@ -1,0 +1,5 @@
+<%= form_tag("/products/#{@product.id}/ratings") %>
+<%= text_field_tag 'title' %>
+<%= text_field_tag 'body' %>
+<%= select_tag 'stars', options_for_select([0,1,2,3,4,5], 0) %>
+<%= submit_tag %>
