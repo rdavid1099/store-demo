@@ -3,7 +3,7 @@ source 'https://rubygems.org'
 ruby '2.1.6'
 
 gem 'rb-readline'
-gem 'rails', '3.2.13'
+gem 'rails', '3.2.22.5'
 gem 'jquery-rails'
 gem 'rake'
 gem 'bootstrap-sass'
