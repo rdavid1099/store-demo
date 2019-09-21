@@ -83,7 +83,7 @@ GEM
       multipart-post (~> 1.1)
     faye-websocket (0.4.7)
       eventmachine (>= 0.12.0)
-    ffi (1.8.1)
+    ffi (1.11.1)
     formatador (0.2.4)
     guard (1.8.0)
       formatador (>= 0.2.4)
